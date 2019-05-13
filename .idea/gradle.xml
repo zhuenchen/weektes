@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/day06" />
+            <option value="$PROJECT_DIR$/day07" />
+            <option value="$PROJECT_DIR$/day14" />
+            <option value="$PROJECT_DIR$/day15" />
+            <option value="$PROJECT_DIR$/day18" />
+            <option value="$PROJECT_DIR$/day2" />
+            <option value="$PROJECT_DIR$/disanzhoulianxi" />
+            <option value="$PROJECT_DIR$/diyizhoumoni" />
+            <option value="$PROJECT_DIR$/glide" />
+            <option value="$PROJECT_DIR$/zhuenchen190415" />
+            <option value="$PROJECT_DIR$/zhuenchen20190422" />
+            <option value="$PROJECT_DIR$/zhuenchen20190427" />
+            <option value="$PROJECT_DIR$/zhuenchen20190506" />
+            <option value="$PROJECT_DIR$/zhuenchen20190513" />
+            <option value="$PROJECT_DIR$/zuce" />
+            <option value="$PROJECT_DIR$/zuoyeliu" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
